@@ -12,6 +12,7 @@ A full-stack medical appointment booking system built with React.js frontend and
 - **Emergency Cases**: Handle emergency case management
 - **Time Slot Management**: Manage doctor availability
 
+
 ## 🛠️ Tech Stack
 
 ### Frontend
