@@ -5,6 +5,7 @@ A full-stack medical appointment booking system built with React.js frontend and
 
 ## 🚀 Features
 
+
 - **User Authentication**: Patient and Doctor registration/login
 - **Appointment Management**: Book, view, and manage appointments
 - **Prescription Management**: Create and view prescriptions
