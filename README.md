@@ -2,6 +2,7 @@
 
 A full-stack medical appointment booking system built with React.js frontend and Node.js backend with MongoDB Atlas database.
 
+
 ## 🚀 Features
 
 - **User Authentication**: Patient and Doctor registration/login
